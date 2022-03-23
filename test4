@@ -1,0 +1,14 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CustomFeedDemo.aspx.cs"
+    Inherits="Brickred.SocialAuth.NET.Demo.CustomFeedDemo" MasterPageFile="~/DemoSite.Master" %>
+
+<asp:Content ContentPlaceHolderID="head" runat="server">
+    <style type="text/css">
+        .largecontent
+        {
+            width:700px;
+            font-size:12px;
+            word-wrap:break-word;
+        }
+    </style>
+</asp:Content>
+rubilana.net
